@@ -1,0 +1,1 @@
+ ¿qué cambios serían necesarios para que no sea entre 1 y 10? Imaginen que quieran jugar entre 1 y 100, o que el usuario quiera jugar entre 1 y 1000. ¿Qué cambios serían necesarios para que esta funcionalidad pueda ser implementada, pueda ser aplicada?
